@@ -1,2 +1,1 @@
 # TestandoCrudDjangoAws
-# TestandoCrudDjangoAws
